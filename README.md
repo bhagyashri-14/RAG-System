@@ -1,3 +1,2 @@
 # RAG-System
-<br> RAG-System to extract key information from PDF using La
-lama2
+<br> RAG-System to extract key information from PDF using Llama2
